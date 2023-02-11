@@ -1,0 +1,9 @@
+
+-----------------------------
+STEPS TO RUN THE APPLICATION:
+-----------------------------
+1. Open file app.ipynb => RUN ALL INPUTS
+
+2. A development server will run on the IP address on the bottom of the notebook. Click on the link. 
+
+3. In case of failure try to restart the kernel.
